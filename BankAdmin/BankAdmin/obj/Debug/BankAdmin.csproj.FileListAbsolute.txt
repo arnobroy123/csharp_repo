@@ -1,0 +1,84 @@
+F:\C#\GUI\BankAdmin\BankAdmin\bin\Debug\BankAdmin.exe.config
+F:\C#\GUI\BankAdmin\BankAdmin\bin\Debug\BankAdmin.exe
+F:\C#\GUI\BankAdmin\BankAdmin\bin\Debug\BankAdmin.pdb
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.EmployeeWindow.resources
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.main_window.resources
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.Properties.Resources.resources
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.csproj.GenerateResource.Cache
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.exe
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.pdb
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.csprojResolveAssemblyReference.cache
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.Employee_list.resources
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.DeptWindow.resources
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.AddEmployee.resources
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.SalaryWindow.resources
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.CommitionWindow.resources
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.HighsalempWindow.resources
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.LowsalempWindow.resources
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.CustomerInfoWindow.resources
+F:\C#\GUI\BankAdmin\BankAdmin\obj\Debug\BankAdmin.NoticeWindow.resources
+F:\C#\BankAdmin\BankAdmin\bin\Debug\BankAdmin.exe.config
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.exe
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.pdb
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.csprojResolveAssemblyReference.cache
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.AddEmployee.resources
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.CommitionWindow.resources
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.CustomerInfoWindow.resources
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.DeptWindow.resources
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.EmployeeWindow.resources
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.NoticeWindow.resources
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.Properties.Resources.resources
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.SalaryWindow.resources
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.csproj.GenerateResource.Cache
+F:\C#\BankAdmin\BankAdmin\bin\Debug\BankAdmin.exe
+F:\C#\BankAdmin\BankAdmin\bin\Debug\BankAdmin.pdb
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.PresentationLayer.EmployeeList.resources
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.AdminHome.resources
+F:\C#\BankAdmin\BankAdmin\obj\Debug\BankAdmin.PresentationLayer.AdminWindow.resources
+F:\C#\BMS\BankAdmin\BankAdmin\bin\Debug\BankAdmin.exe.config
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.exe
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.pdb
+F:\C#\BMS\BankAdmin\BankAdmin\bin\Debug\BankAdmin.exe
+F:\C#\BMS\BankAdmin\BankAdmin\bin\Debug\BankAdmin.pdb
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.csprojResolveAssemblyReference.cache
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.AddEmployee.resources
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.PresentationLayer.AdminWindow.resources
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.CommitionWindow.resources
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.CustomerInfoWindow.resources
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.DeptWindow.resources
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.PresentationLayer.EmployeeList.resources
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.EmployeeWindow.resources
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.AdminHome.resources
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.NoticeWindow.resources
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.Properties.Resources.resources
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.SalaryWindow.resources
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.csproj.GenerateResource.Cache
+F:\C#\BMS\BankAdmin\BankAdmin\bin\Debug\Bank_Management.exe
+F:\C#\BMS\BankAdmin\BankAdmin\bin\Debug\Bank_Management.pdb
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\Bank_Management.Presentation.Homepage.resources
+F:\C#\BMS\BankAdmin\BankAdmin\obj\Debug\BankAdmin.PresentationLayer.Homepage.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\bin\Debug\BankAdmin.exe.config
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\bin\Debug\BankAdmin.exe
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\bin\Debug\BankAdmin.pdb
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\bin\Debug\Bank_Management.exe
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\bin\Debug\Bank_Management.pdb
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\bin\Debug\Bank_Management.exe.config
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.csprojAssemblyReference.cache
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\Bank_Management.Presentation.Homepage.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.AddEmployee.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.PresentationLayer.AdminWindow.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.CommitionWindow.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.CustomerInfoWindow.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.DeptWindow.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.PresentationLayer.EmployeeList.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.EmployeeWindow.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.AdminHome.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.PresentationLayer.Homepage.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.NoticeWindow.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.Properties.Resources.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.SalaryWindow.resources
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.csproj.GenerateResource.cache
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.csproj.CoreCompileInputs.cache
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.csproj.CopyComplete
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.exe
+E:\CSE\C# Project\BMSys\BankAdmin\BankAdmin\obj\Debug\BankAdmin.pdb
